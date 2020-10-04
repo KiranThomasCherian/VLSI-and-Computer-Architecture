@@ -35,8 +35,13 @@ XILINX Design Flow -store Imag1 in one block ram and image2 in another block ram
 Experiment 10:
 write a perl or python or any scripting language - combinational logic circuit (biparted graph) as adjacent list and enumerate the all the paths from input to output.
 
+
+
 Design Activity:
 
 1.Write a perl or python or any scripting language based CMOS Compound Gate Design. Input to your code is compound gate based expresssion and output is compound gate stucture.
 
 2.16-bit Slansky Adder design using verilog HDL
+
+--------
+32,64 bit kogge stone carry look ahead in exp 5,6
