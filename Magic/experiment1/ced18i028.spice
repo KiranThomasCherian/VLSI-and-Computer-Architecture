@@ -1,0 +1,11 @@
+* SPICE3 file created from ced18i028.ext - technology: scmos
+
+.option scale=1u
+
+M1000 Y A vdd vdd pfet w=9 l=2
++  ad=153 pd=52 as=99 ps=40
+M1001 Y A gnd Gnd nfet w=6 l=2
++  ad=90 pd=42 as=60 ps=32
+C0 gnd Gnd 8.08fF
+C1 Y Gnd 8.08fF
+C2 A Gnd 8.53fF
