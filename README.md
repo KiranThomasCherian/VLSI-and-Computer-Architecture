@@ -7,7 +7,7 @@ Magic Tool - Inverter Layout Design Practice -Draw the inverterlayout, extract t
 Experiment 2:
 Magic Tool - 2-input NOR gate Layout Design Practice - Draw the 2- input NOR gate layout, extract the circuit persitics and verify its operation.
 
-VERILOG :
+VERILOG :     (IMPORTATNT NOTE :Tested in iverilog !!!)
 
 Experiment 3:
 Design 32 bit Ripple carry Adder using Verilog HDL using bottom-up approach
