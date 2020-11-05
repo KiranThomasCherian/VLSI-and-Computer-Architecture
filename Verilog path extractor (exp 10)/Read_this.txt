@@ -1,0 +1,3 @@
+Try to remove comments
+Use only circuits with gate level modelling
+Supports : not, 2 input -or,and,nor,nand,xor,xnor  (i.e no 3 input gates and no buf)
