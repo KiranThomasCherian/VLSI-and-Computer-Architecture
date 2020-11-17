@@ -39,6 +39,7 @@ XILINX Design Flow -store Imag1 in one block ram and image2 in another block ram
 Experiment 10:
 write a perl or python or any scripting language - combinational logic circuit (biparted graph) as adjacent list and enumerate the all the paths from input to output.
 ######(Used Python)
+
 -------------------------------------------------------------------------------------------------
 
 Design Activity:
