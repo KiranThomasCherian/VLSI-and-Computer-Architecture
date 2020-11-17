@@ -7,7 +7,8 @@ Magic Tool - Inverter Layout Design Practice -Draw the inverterlayout, extract t
 Experiment 2:
 Magic Tool - 2-input NOR gate Layout Design Practice - Draw the 2- input NOR gate layout, extract the circuit persitics and verify its operation.
 
-VERILOG :     (IMPORTANT NOTE :Tested in iverilog !!!)
+----------------------------------------------------------------------------------
+VERILOG :     ######(IMPORTANT NOTE :Tested in iverilog !!!)
 
 Experiment 3:
 Design 32 bit Ripple carry Adder using Verilog HDL using bottom-up approach
@@ -21,7 +22,7 @@ Design 32-bit Adder -recursive doubling based carry lookahead adder using verilo
 Experiment 6/5:
 Design 32-bit Wallace Multiplier using carry save Adder tree, model the design is verilog HDL
 
----------
+------------------------------------------------------------------------
 
 Experiment 7:
 XILINX Design Flow practice- Modeling 8-bitparity generator circuit on target fpga. Model parity generator circuit in verilog HDL
@@ -35,7 +36,7 @@ XILINX Design Flow -store Imag1 in one block ram and image2 in another block ram
 Experiment 10:
 write a perl or python or any scripting language - combinational logic circuit (biparted graph) as adjacent list and enumerate the all the paths from input to output.
 
-
+-------------------------------------------------------------------------------------------------
 
 Design Activity:
 
