@@ -1,0 +1,1 @@
+For single operand cases ,First argument is considered
