@@ -7,7 +7,7 @@ VERILOG:
 
 > Pipelined 32 bit wallace multiplier 
 
-> Pipelined 64 bit adder (Recursive)
+> Pipelined 64 bit adder (Recursive) (inside 32 bit wallace multiplier directory)
 
 > Pipelined 32-bit single precision floating point adder.
 
