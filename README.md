@@ -1,14 +1,22 @@
-# computer architecture
+# Computer Architecture
 
 VERILOG:
-###### (IMPORTANT NOTE :Tested in iverilog !!!)
+###### ( NOTE :Tested in iverilog !!!)
 
-> Pipelined 32 bit adder
-> Pipelined 32 bit multiplier (Recursive)
-> Pipelined 64 bit multiplier (Recursive)
+> Pipelined 32 bit adder (Recursive,Kogge stone carry look ahead)
+
+> Pipelined 32 bit wallace multiplier 
+
+> Pipelined 64 bit adder (Recursive)
+
 > Pipelined 32-bit single precision floating point adder.
+
 > Pipelined 32 bit Single precision floating point Multiplier
+
 > Logical unit design
+
+Rest in VLSI verilog part below
+
 
 # VLSI
 
