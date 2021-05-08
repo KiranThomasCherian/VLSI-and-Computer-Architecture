@@ -1,5 +1,17 @@
+# computer architecture
+
+VERILOG:
+###### (IMPORTANT NOTE :Tested in iverilog !!!)
+
+> Pipelined 32 bit adder
+> Pipelined 32 bit multiplier (Recursive)
+> Pipelined 64 bit multiplier (Recursive)
+> Pipelined 32-bit single precision floating point adder.
+> Pipelined 32 bit Single precision floating point Multiplier
+> Logical unit design
+
 # VLSI
-Sem 5 vlsi lab experiments
+
 
 -----------------------------------------------------------------------------------
 
