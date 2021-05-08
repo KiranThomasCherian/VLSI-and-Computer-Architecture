@@ -46,6 +46,7 @@ Experiment 6/5:
 Design 32-bit Wallace Multiplier using carry save Adder tree, model the design is verilog HDL
 
 ------------------------------------------------------------------------
+Xilinx
 
 Experiment 7:
 XILINX Design Flow practice- Modeling 8-bitparity generator circuit on target fpga. Model parity generator circuit in verilog HDL
